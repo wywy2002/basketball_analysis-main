@@ -1,0 +1,7 @@
+这是一个用于测试 GitHub 提交功能的文本文件。
+
+可以随便写几行内容：
+- 测试 git add
+- 测试 git commit
+- 测试 git push
+- 后续可以用 git log / git revert / git checkout 来学习回溯

@@ -1,0 +1,4 @@
+[submodule "diagnostics/videopose3d_export/VideoPose3D"]
+	path = diagnostics/videopose3d_export/VideoPose3D
+	url = https://github.com/facebookresearch/VideoPose3D.git
+	ignore = untracked

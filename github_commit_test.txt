@@ -4,10 +4,6 @@
 - 测试 git add
 - 测试 git commit
 - 测试 git push
-<<<<<<< HEAD
-merge-test-line: brunch2
-=======
 merge-test-line: brunch1
->>>>>>> brunch1
 - 2026-05-26 再次添加一行内容，用于测试 GitHub 提交流程
 - 后续可以用 git log / git revert / git checkout 来学习回溯
